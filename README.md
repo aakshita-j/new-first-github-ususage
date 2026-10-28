@@ -1,2 +1,2 @@
-# new-first-github-ususage
-fdfggdvdv
+# new-first-github-useage
+finally worked
